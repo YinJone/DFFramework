@@ -1,0 +1,6 @@
+framework module DFFramework {
+  umbrella header "DFFramework.h"
+
+  export *
+  module * { export * }
+}
